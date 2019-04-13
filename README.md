@@ -5,7 +5,7 @@ The purpose of this Linux Host Lab is to help you gain experience hardening an U
 This repository should be used to quickly switch a VM’s state from either secure or insecure.  We have created bash scripts that will automatically change the host’s settings.  The "vuln_state_settings.sh" script should be run to change the VM state to insecure before practicing securing the host.
 
  
-To help instruct on what must do to secure the vulnerable Linux host, we have created a lab scenario document, as well as four lab walkthroughs for the following labs: 
+To help instruct on what must be done to secure the vulnerable Linux host, we have created a lab scenario document, as well as four lab walkthroughs for the following labs: 
       1. Insecure Service Clients 
       2. User & Password Management 
       3. SSH Server Configuration 
