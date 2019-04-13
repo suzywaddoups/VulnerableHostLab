@@ -6,6 +6,7 @@ This repository should be used to quickly switch a VM’s state from either secu
 
  
 To help instruct on what must be done to secure the vulnerable Linux host, we have created a lab scenario document, as well as four lab walkthroughs for the following labs: 
+
       1. Insecure Service Clients 
       2. User & Password Management 
       3. SSH Server Configuration 
